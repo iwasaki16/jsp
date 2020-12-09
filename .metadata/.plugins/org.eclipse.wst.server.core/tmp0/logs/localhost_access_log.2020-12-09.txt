@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:09:47:15 +0900] "GET /8_addpagelogic/ HTTP/1.1" 404 1227
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:09:47:33 +0900] "GET /8_addpagelogic/greeting-in.jsp HTTP/1.1" 200 1611
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:09:47:43 +0900] "POST /8_addpagelogic/servlet/add HTTP/1.1" 200 135
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:09:48:09 +0900] "GET /9_addpagelogic2/ HTTP/1.1" 404 1228
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:09:48:20 +0900] "GET /9_addpagelogic2/greeting-in.jsp HTTP/1.1" 200 1613
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:09:48:28 +0900] "POST /9_addpagelogic2/servlet/add2 HTTP/1.1" 404 1244

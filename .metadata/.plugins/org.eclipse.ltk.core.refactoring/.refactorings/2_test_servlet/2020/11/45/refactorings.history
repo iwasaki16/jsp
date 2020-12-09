@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HellowSevlet.java&apos; to &apos;7_contextpath/src&apos;&#x0D;&#x0A;- Original project: &apos;2_test_servlet&apos;&#x0D;&#x0A;- Destination element: &apos;7_contextpath/src&apos;&#x0D;&#x0A;- Original element: &apos;HellowSevlet.java&apos;" description="Copy compilation unit" destination="=7_contextpath/src" element1="/src&lt;{HellowSevlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1604538265752" units="1" version="1.0"/>
+</session>
